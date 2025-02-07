@@ -159,3 +159,11 @@ li a {
     background-color: transparent;
     color: white;
 }
+
+img {
+    height: 50px;
+}
+
+.main-section {
+    background-color: aqua;
+}
