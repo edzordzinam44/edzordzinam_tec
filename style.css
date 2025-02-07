@@ -160,10 +160,10 @@ li a {
     color: white;
 }
 
-img {
+.p-section img {
     height: 50px;
 }
 
-.main-section {
+.p-section {
     background-color: aqua;
 }
