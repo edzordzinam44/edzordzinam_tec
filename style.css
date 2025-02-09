@@ -164,15 +164,21 @@ li a {
     height: 50px;
 }
 
-.p-section {
+/* .p-section {
     display: flex;
-    /* align-items: center; */
+    align-items: center;
     justify-content: center;
     background-color: aqua;
-}
+} */
 
 .p-section h3 {
     text-transform: uppercase;
     font-size: 20px;
     text-decoration: underline rgb(27, 24, 19);
+}
+
+.p-section div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
