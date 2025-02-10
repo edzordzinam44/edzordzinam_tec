@@ -164,12 +164,9 @@ li a {
     height: 50px;
 }
 
-/* .p-section {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: aqua;
-} */
+.list-section {
+    background-color: rgb(22, 21, 21);
+}
 
 .p-section h3 {
     text-transform: uppercase;
