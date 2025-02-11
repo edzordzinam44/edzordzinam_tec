@@ -179,3 +179,12 @@ li a {
     align-items: center;
     justify-content: center;
 }
+
+.news-section h3 {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.news-section img {
+    height: 15px;
+}
