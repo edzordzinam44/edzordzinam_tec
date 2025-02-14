@@ -189,3 +189,14 @@ li a {
     height: 30px;
     border-radius: 20px;
 }
+
+#project-card {
+    background-color: #ffffff;
+}
+
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
