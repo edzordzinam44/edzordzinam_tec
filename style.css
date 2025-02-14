@@ -200,3 +200,7 @@ li a {
     gap: 2rem;
     margin-top: 2rem;
 }
+
+.logo-container a img {
+   border-radius: 20px;
+}
