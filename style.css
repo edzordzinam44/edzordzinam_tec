@@ -142,7 +142,8 @@ li a {
 .btnn:hover {
     background-color: rgb(15, 82, 18);
     color: white;
-    transition: 0.5s;
+    transition: 0.9s ease-in;
+    transform: skew(-10deg, -10deg);
 }
 
 .footer-div {
@@ -190,8 +191,25 @@ li a {
     border-radius: 20px;
 }
 
-#project-card {
-    background-color: #ffffff;
+/* Main- container */
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#projects {
+    background-color: white;
+}
+
+.project-card {
+    background-color: #8d3f3f;
+    padding: 2rem;
+    border-radius: 15px;
+}
+
+.project-card h3 {
+    text-decoration: underline;
 }
 
 .project-grid {
@@ -199,9 +217,14 @@ li a {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 2rem;
     margin-top: 2rem;
+    background-color: #d8b9b9;
+    border-radius: 8px;
+    padding: 1.5rem;
+    transition: transform 0.3s;
+    cursor: pointer;
 }
 
-.logo-container img {
+.contact-container img {
    border-radius: 20px;
    height: 30px;
 }
