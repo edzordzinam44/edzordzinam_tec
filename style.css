@@ -198,6 +198,11 @@ li a {
     margin: 0 auto;
 }
 
+.container h3 {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
 #projects {
     background-color: white;
 }
