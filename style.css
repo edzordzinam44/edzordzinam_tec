@@ -9,6 +9,7 @@
 
 body {
     scroll-behavior: smooth;
+    line-height: 1.6;
 }
  /* Hearder */
 header {
@@ -18,7 +19,6 @@ header {
     background-color: rgb(27, 24, 19);
     box-shadow: 0 3px 50x black;
     width: 100%;
-    /* z-index: 1000; */
 }
 
 header * {
