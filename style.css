@@ -167,7 +167,7 @@ li a {
 }
 
 .list-section {
-    background-color: rgb(22, 21, 21);
+    /* background-color: rgb(22, 21, 21); */
 }
 
 .p-section h3 {
@@ -184,6 +184,8 @@ li a {
 
 .news-section {
     background-color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .news-section h3 {
