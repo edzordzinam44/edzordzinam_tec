@@ -67,10 +67,10 @@ Focus on creating a seamless and enjoyable user experience with intuitive design
 
 Feel free to reach out to me for any inquiries or collaborations:
 
-Email: <edzordzinam.alipui@gmail.com>
+    Email: <edzordzinam.alipui@gmail.com>
 
-LinkedIn: <linkedin.com/in/edzordzinam-alipui>
+    LinkedIn: <linkedin.com/in/edzordzinam-alipui>
 
-Portfolio Website: <edzordzinam-portfolio.com>
+    Portfolio Website: <edzordzinam-portfolio.com>
 
 ## Thank You For visitng my Portfolio
