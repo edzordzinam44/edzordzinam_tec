@@ -46,18 +46,25 @@ A responsive app that helps users select and order food.
 🛡️ Security
 
 JWT Authentication: Secures user data with token-based authentication.
+
 HTTPS: Ensures secure communication between the client and server.
+
 🤖 Future Enhancements
+
 Investment Portfolio: Track and manage investments with real-time stock data.
+
 Notifications: Get alerts for important events and updates.
 
 📈 Data Visualization
+
 Using libraries like Chart.js and D3.js to create interactive and informative data visualizations.
 
 🎨 UI/UX
+
 Focus on creating a seamless and enjoyable user experience with intuitive design and navigation.
 
 👥 Contact
+
 Feel free to reach out to me for any inquiries or collaborations:
 
 Email: <edzordzinam.alipui@gmail.com>
