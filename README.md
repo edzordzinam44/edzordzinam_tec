@@ -63,6 +63,7 @@ Feel free to reach out to me for any inquiries or collaborations:
 Email: <edzordzinam.alipui@gmail.com>
 
 LinkedIn: <linkedin.com/in/edzordzinam-alipui>
+
 Portfolio Website: <edzordzinam-portfolio.com>
 
 ## Thank You For visitng my Portfolio
