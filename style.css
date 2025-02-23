@@ -125,7 +125,10 @@ li a {
     margin: 10px;
 }
 
-
+/* List Section */
+.list-section {
+    background-color: #293daf;
+}
 
 .btnn {
     background-color: rgb(110, 108, 108);
@@ -160,7 +163,7 @@ li a {
 }
 
 .p-section {
-    background-color: #8d3f3f;
+    background-color: #563f8d;
 }
 .p-section img {
     height: 50px;
