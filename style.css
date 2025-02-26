@@ -139,21 +139,45 @@ li a {
     background-color: #293daf;
 }
 
-.btnn {
-    background-color: rgb(110, 108, 108);
-    border-radius: 15px;
-    color: blue;
-    padding: 12px 10px;
-    font-size: 20px;
-    cursor: help;
-    width: 20%;
+/* Aside Nav */
+.social-links {
+    padding: 2rem;
+    text-align: center;
+    margin-top: auto;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
-.btnn:hover {
-    background-color: rgb(15, 82, 18);
+.social-links a {
     color: white;
-    transition: 0.9s ease-in;
-    transform: skew(-10deg, -10deg);
+    margin: 0 0.5rem;
+    text-decoration: none;
+}
+
+/* About */
+#about {
+    background-color: #eb0f0f;
+}
+
+.profile-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    /* margin: 0 auto 2rem; */
+    display: block;
+    object-fit: cover;
+}
+
+.social-links {
+    padding: 2rem;
+    text-align: center;
+    margin-top: auto;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.social-links a {
+    color: white;
+    margin: 0 0.5rem;
+    text-decoration: none;
 }
 
 .p-section {
