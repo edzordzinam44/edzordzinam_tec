@@ -156,21 +156,6 @@ li a {
     transform: skew(-10deg, -10deg);
 }
 
-.footer-div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(71, 67, 67);
-    color: white;
-    padding: 1em;
-}
-
-.footer-div p {
-    margin-right: 10px;
-    background-color: transparent;
-    color: #ffffff;
-}
-
 .p-section {
     background-color: #563f8d;
 }
@@ -279,4 +264,40 @@ button {
 
 button:hover {
     background-color: #2980b9;
+}
+
+/*Footer Section */
+
+.footer-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(71, 67, 67);
+    color: white;
+    padding: 1em;
+}
+
+.footer-div p {
+    margin-right: 10px;
+    background-color: transparent;
+    color: #ffffff;
+}
+
+ /* Media Queries for Responsive Design */
+ @media (max-width: 992px) {
+    aside.sidebar {
+        transform: translateX(-100%);
+    }
+    
+    aside.sidebar.active {
+        transform: translateX(0);
+    }
+    
+    .menu-toggle {
+        display: block;
+    }
+    
+    main, footer {
+        margin-left: 0;
+    }
 }
