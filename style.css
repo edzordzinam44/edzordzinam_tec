@@ -134,12 +134,7 @@ li a {
     margin: 10px;
 }
 
-/* List Section */
-.list-section {
-    background-color: #293daf;
-}
-
-/* Aside Nav */
+/* Aside Nav  Contact*/
 .social-links {
     padding: 2rem;
     text-align: center;
@@ -181,7 +176,7 @@ li a {
 }
 
 .p-section {
-    background-color: #563f8d;
+    background-color: #f9f9f9;
 }
 .p-section img {
     height: 50px;
