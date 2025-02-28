@@ -188,11 +188,11 @@ li a {
     text-decoration: underline rgb(27, 24, 19);
 }
 
-.p-section div {
+/* .p-section div {
     display: flex;
     align-items: center;
     justify-content: center;
-}
+} */
 
 .news-section {
     background-color: #ffffff;
@@ -230,6 +230,7 @@ li a {
     background-color: #8d3f3f;
     padding: 2rem;
     border-radius: 15px;
+    cursor: pointer;
 }
 
 .project-card h3 {
@@ -245,7 +246,7 @@ li a {
     border-radius: 8px;
     padding: 1.5rem;
     transition: transform 0.3s;
-    cursor: pointer;
+    /* cursor: pointer; */
 }
 
 .contact-container img {
