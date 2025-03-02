@@ -9,6 +9,11 @@ body {
     scroll-behavior: smooth;
     line-height: 1.6;
 }
+
+.fa {
+    margin-right: 2rem;
+}
+
  /* Hearder */
 header {
     position: fixed;
